@@ -1,0 +1,26 @@
+html {
+    scroll-behavior: smooth;
+}
+.unkvlp-button{
+    display: inline-block;
+    background-color: #06b8af;
+    width: 40%;
+    min-width: 280px;
+    padding: 8px 20px;
+    border: 1px solid #06b8af;
+    -webkit-border-radius: 21px;
+    -moz-border-radius: 21px;
+    border-radius: 21px;
+    color: #ffffff;
+    font-size: 19px;
+    line-height: 24px;
+    text-align: center;
+    vertical-align: top;
+}
+.unkvlp-button:hover{
+    color:#fff;
+    text-decoration:none !important;
+}
+.unkvlp-button:visited {
+    color: #ffffff !important;
+}
